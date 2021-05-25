@@ -64,7 +64,7 @@ REMOTE_MAVEN_PACKAGES = [
     ('io.netty', 'netty-resolver', '4.1.32.Final'),
     ('io.netty', 'netty-common', '4.1.32.Final'),
     ('io.netty', 'netty-buffer', '4.1.32.Final'),
-    ('io.netty', 'netty-handler', '4.1.32.Final'),
+    ('io.netty', 'netty-handler', '4.1.46.Final'),
     ('io.netty', 'netty-transport-native-epoll', '4.1.32.Final'),
     ('io.netty', 'netty-transport-native-unix-common', '4.1.32.Final'),
     ('com.typesafe.netty', 'netty-reactive-streams-http', '2.0.0'),
@@ -85,8 +85,8 @@ REMOTE_MAVEN_PACKAGES = [
     ('software.amazon.awssdk', 'protocol-core', '2.4.0'),
     ('software.amazon.awssdk', 'profiles', '2.4.0'),
     ('software.amazon.awssdk', 'sdk-core', '2.4.0'),
-    ('com.fasterxml.jackson.core', 'jackson-core', '2.9.8'),
-    ('com.fasterxml.jackson.core', 'jackson-databind', '2.9.8'),
+    ('com.fasterxml.jackson.core', 'jackson-core', '2.9.10'),
+    ('com.fasterxml.jackson.core', 'jackson-databind', '2.9.10.8'),
     ('software.amazon.awssdk', 'auth', '2.4.0'),
     ('software.amazon', 'flow', '1.7'),
     ('software.amazon.awssdk', 'http-client-spi', '2.4.0'),
@@ -108,7 +108,7 @@ REMOTE_MAVEN_PACKAGES = [
     ('com.beust', 'jcommander', '1.72'),
     ('commons-io', 'commons-io', '2.6'),
     ('org.apache.commons', 'commons-collections4', '4.2'),
-    ('commons-beanutils', 'commons-beanutils', '1.9.3'),
+    ('commons-beanutils', 'commons-beanutils', '1.9.4'),
     ('commons-collections', 'commons-collections', '3.2.2')
 ]
 
